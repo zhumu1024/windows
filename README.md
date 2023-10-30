@@ -120,6 +120,8 @@ Function AddOrRemoveTweak($tweak) {
         #在$script:tweaks数组中添加新的元素
 	}
 }
+
+```
 ```
 $i = 0
 #设置一个变量，并赋值为0
